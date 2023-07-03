@@ -51,14 +51,6 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shdomi8599&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<a href="https://web-beginner.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  
-  ####  :clipboard: <a href="https://www.shdomi8599-portfolio.com" target="_blank">Portfolio</a>
-
-  <a href="https://www.shdomi8599-portfolio.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/117655658/235359160-3d46d3fc-3731-4df2-ad66-3d8f2e127836.png">
-  </a>
-  
+    
 </div>
 
