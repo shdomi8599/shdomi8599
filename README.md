@@ -3,7 +3,7 @@
 Company Projects : [ https://xcs.xociety.io/,&nbsp; https://xociety.io/ ,&nbsp; https://app.xociety.io/ ]
 <br/>
 <br/>
-Side Projects (solo) : [ https://quiz-app-navy-six.vercel.app/ ]
+Side Projects (solo) : [ https://favoriteshub.com/,&nbsp; https://quiz-app-navy-six.vercel.app/ ]
  <br/>
 </div>
  
