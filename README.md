@@ -1,9 +1,29 @@
 
 <div align="left"> 
-Company Projects : [ https://xcs.xociety.io/,&nbsp; https://xociety.io/ ,&nbsp; https://app.xociety.io/ ]
+Company Projects : [ 
+<a href="https://xcs.xociety.io/" target="_blank">
+https://xcs.xociety.io/
+</a>
+,&nbsp;
+<a href="https://xociety.io/" target="_blank">
+https://xociety.io/
+</a>
+,&nbsp;
+<a href="https://app.xociety.io/" target="_blank">
+https://app.xociety.io/
+</a>
+]
 <br/>
 <br/>
-Side Projects (solo) : [ https://favoriteshub.com/,&nbsp; https://quiz-app-navy-six.vercel.app/ ]
+Side Projects (solo) : [
+<a href="https://favoriteshub.com/" target="_blank">
+https://favoriteshub.com/
+</a>
+,&nbsp;
+<a href="https://quiz-app-navy-six.vercel.app/" target="_blank">
+https://quiz-app-navy-six.vercel.app/
+</a> 
+]
  <br/>
 </div>
  
