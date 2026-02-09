@@ -29,6 +29,10 @@ https://app.xociety.io/
 <br/>
 <br/>
 Side Projects (solo) : [
+<a href="https://personacrafts.com/" target="_blank">
+https://personacrafts.com/
+</a>
+,&nbsp;
 <a href="https://favoriteshub.com/" target="_blank">
 https://favoriteshub.com/
 </a>
